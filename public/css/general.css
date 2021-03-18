@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body {
+  font-family: 'Righteous', cursive;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+footer {
+  background: #2ff3e0;
+  padding-top: 2.7vh;
+}
+
+.row {
+  margin: 0;
+}
+
+.cyan-bg {
+  background: #2ff3e0;
+}
+
+.gold-bg {
+  background: #f8d210;
+}
+
+.gold-text {
+  color: #f8d210;
+}
+
+.pink-bg {
+  background: #ee27f0;
+}
+
+.pink-text {
+  color: #ee27f0;
+}
+
+.chili-pepper-text {
+  color: #f51720;
+}
+
+.chili-pepper-bg {
+  background-color: #f51720;
+}
+
+.white-text {
+  color: white;
+}
+
+.center-positioning {
+  display: grid;
+  place-items: center;
+  text-align: center;
+}

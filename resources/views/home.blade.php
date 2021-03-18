@@ -1,0 +1,161 @@
+@extends('layouts.app')
+
+@section('content')
+
+    <!-- add styles -->
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/home.css') }}">
+    
+
+    <div id="first-main" class="main-element-scaffold pink-bg">
+      <div class="centered gold-text">
+        <span>Czy już sama myśl o reklamowaniu się w internecie, przyprawia Cię o niepokój?</span>
+      </div>
+    </div>
+
+    <div id="second-main" class="row main-element-scaffold gold-bg">
+      <div class="image-half col-sm-6">
+        <img src="img/man-confused.jpg">
+      </div>
+      <div class="col-sm-6 text-half chili-pepper-text center-positioning">
+        <h1>Gdzie jest Twój ból?</h1>
+        &nbsp;
+        <h2>Nie wiesz jak to się robi?</h2> 
+        &nbsp;
+        <h3>Gdzie zacząć?</h3> 
+        &nbsp;
+        <h4>Czy po prostu Cie to nie interesuję?</h4>
+      </div>
+    </div>
+
+    <div id="third-main" class="row chili-pepper-bg center-positioning">
+      <h3>Chciałbyś stale pozyskiwać nowych klientów jednocześnie skupiając się wyłącznie na swojej pracy?</h3>
+    </div>
+
+    <div id="fourth-main" class="row main-element-scaffold cyan-bg">
+      <div class="col-sm-6 text-half white-text center-positioning">
+        &nbsp;
+        <h2>Świetnie się złożyło, że się poznaliśmy ponieważ jesteśmy przekonani, że możemy Ci pomóc uzyskać oczekiwany stan rzeczy!!</h2>
+        &nbsp;
+      </div>
+      <div class="image-half col-sm-6">
+        <img src="img/man-full-of-life.jpg">
+      </div>
+    </div>
+
+    <div id="fifth-main" class="row chili-pepper-bg center-positioning">
+      <p>
+        Twoi obecni klienci oraz zlecenia są krwią płynącą w aortach Twojej firmy. Niestety, upływający w każdej chwili czas przybliżający Cie 
+        do kolejnych cyklicznych płatności sprawia, że się wykrwawiasz. 
+      </p>
+      <p>
+        Możesz się z tym niezgodzić, walić głową w mur, lecz im wcześniej uświadomisz sobie, że 
+      <strong>potrzebujesz stale napływających nowych klientów oraz zleceń</strong> - 
+      tym bardziej zwiększysz szanse na długoterminowe prosperowanie swojego biznesu.
+      </p>
+    </div>
+
+    <div id="sixth-main" class="main-element-scaffold pink-bg">
+      <p class="gold-text" style="font-size: 2.1rem;">
+        Do reklamy w internecie trzeba podejść jak do każdej innej inwestycji!
+      </p>
+      <p class="gold-text">
+        Tak jak nasiono potrzebuję czasu, wody i światła by stać się drzewm, 
+        tak tworzenie konwertującego leja sprzedażowego dla Twojej firmy wymaga powzięcia pewnych środków oraz ich odpowiedniego ulokowania.
+      </p>
+      <p class="gold-text" style="font-size: 2.1rem;">
+        Potrzebne jest zrozumienie, opanowanie, czas i pieniądze.
+      </p>
+    </div>
+
+    <div class="text-center" style="padding: 0 3vh 6vh 3vh;">
+      <h3>
+        Działania reklamowe obecnie oferowane przez nasz zespół dzielą się na dwie główne gałęzie:
+      </h3>
+    </div>
+
+    <div id="seventh-main" class="row main-element-scaffold cyan-bg">
+      <div class="col-sm-6 white-text center-positioning">
+        <p style="font-size: 1.5rem;">
+          1. Prowadzenie kont na serwisach społecznościowych - Facebook oraz Instagram. 
+        </p>
+        <p>
+          Wiąże się to z tworzeniem (oraz publikacją z użyciem płatnych reklam) - postów związanych z tematyką 
+          Twojej działalności/biznesu oraz organizowaniem konkursów mających na celu zwiększenie zainteresowania tym co oferujesz jako firma!
+        </p>
+        <p>
+          Wszystkie te zabiegi mają na celu dać pewną wartość Twojemu potencjalnemu klientowi pokazując mu przy tym, że znasz się na tym czym się zajmujesz. 
+        </p>
+        <p>
+          Konsekwencją takich zabiegów będzie drastycznie zwiększenie szansy na to, że osoba taka - szukając potrzebnego produktu czy usługi - 
+          zdecyduję się na kontakt właśnie z Twoją firmą! 
+        </p>
+      </div>
+      <div class="col-sm-6 white-text center-positioning">
+        <p style="font-size: 1.5rem;">
+          2. Tworzeniem oraz publikacją w mediach społecznościowych reklam (w postaci grafik, zdjęć, audio czy video).
+        </p>
+        <p>
+          Mają one na celu przekierować potencjalnego klienta na Twój profil w mediach społecznościowych, stronę internetową 
+          czy też specjalnie do tego celu utworzony przez nas - "landing page" zawierający informacje o Twojej ofercie wraz z 
+          nacechowaną persfazją zachętą do podjęcia akcji (zakupu). 
+        </p>
+        <p style="font-size: 1.2rem;">
+          Zabiegi te wymagają specjalistycznej wiedzy dotyczącej:
+        </p>
+        <ol>
+          <li>
+            tworzenia grafik oraz video,
+          </li>
+          <li>
+            tworzenia reklam,
+          </li>
+          <li>
+            <a href="/blog/what-is-copywriting" target="_blank" style="text-shadow: none;">
+              copywriting'u
+            </a>
+            (umiejętność pisania tekstów sprzedażowych),
+          </li>
+          <li>
+            obsługi serwisów społecznościowych,
+          </li>
+          <li>
+            targetowania reklam (wymagane jest tu zrozumienie profilu osobowości grupy potencjalnych klientów),
+          </li>
+          <li>
+            oraz szerokopojętego pojęcia zakrawającego o dziedziny takie jak psychologia czy socjologia
+          </li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="text-center" style="padding: 0 3vh 6vh 3vh;">
+      <h3>
+        Wszystko to po to by nie "przepalać" budżetu reklamowego zwiększając przy tym stale liczbę Twoich nowych klientów!
+      </h3>
+    </div>
+
+    <div id="eighth-main" class="main-element-scaffold pink-bg">
+      <p class="gold-text" style="font-size: 1.8rem;">
+        Tak więc...jeśli marzysz o oddelegowaniu od siebie wszystkich tych zajęć ciesząc się przy tym nowymi i stale napływającymi klientami - pozostaw to nam!
+      </p>
+      <!-- <p class="gold-text">
+        By ułatwić sobie decyzję - zapoznaj się 
+        <a href="/pricing" target="_blank" style="text-shadow: .06rem .05rem white;">
+          z naszymi korzystnymi cenami! 
+        </a>
+      </p> -->
+      <p class="gold-text" style="font-size: 2.1rem;">
+        To najlepsza inwestycja dla Twojej firmy!
+      </p>
+    </div>
+
+    <div class="text-center">
+      <p style="font-size: 7.5vh; padding: 0 3vh 7vh 3vh;">
+        Jeśli wyrażnie widzisz te zdanie to znaczy, że jesteś już bardzo blisko sukcesu!! </br>
+        <a href="/contact" target="_blank">
+          Skontaktuj się z nami!
+        </a>
+      </p>
+    </div>
+
+@endsection

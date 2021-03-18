@@ -1,0 +1,94 @@
+.main-element-scaffold {
+    position: relative;
+    height: auto;
+    z-index: 1;
+    padding: 0 .75rem 0 .75rem;
+  }
+  
+  #first-main {
+    text-align: center;
+    min-height: 45rem;
+    border-radius: 1.5rem;
+    margin-bottom: 8.1vh;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .centered span {
+    font-size: 2.8rem;
+    text-shadow: .25rem .25rem #f51720;
+    word-wrap: break-word;
+  }
+  
+  #second-main {
+    margin-bottom: 8vh;
+  }
+  
+  #third-main {
+    border-radius: 1.5rem;
+    position: relative;
+    min-height: 300px;
+    z-index: 1;
+    margin-bottom: 3rem;
+    padding: 3rem;
+    font-size: 2.8rem;
+    color: white;
+    text-shadow: .125rem .125rem #ee27f0;
+  }
+  
+  #fourth-main {
+    border-radius: 2.7rem;
+    margin-bottom: 8vh;
+  }
+  
+  #fifth-main {
+    border-radius: 1.5rem;
+    position: relative;
+    min-height: 300px;
+    z-index: 1;
+    margin-bottom: 3rem;
+    padding: 3rem;
+    font-size: 1.2rem;
+    color: white;
+    text-shadow: .125rem .125rem #ee27f0;
+  }
+  
+  #sixth-main {
+    text-align: center;
+    border-radius: 1.5rem;
+    font-size: 1.8rem;
+    padding: 3vh;
+    margin-bottom: 8.1vh;
+    text-shadow: .25rem .25rem #f51720;
+  }
+  
+  #seventh-main {
+    border-radius: 2.7rem;
+    margin-bottom: 8vh;
+    padding: 1.5vh 0 1.5vh 0;
+    text-shadow: .09rem .09rem #ee27f0;
+  }
+  
+  #eighth-main {
+    text-align: center;
+    border-radius: 1.5rem;
+    font-size: 1.8rem;
+    padding: 3vh;
+    margin-bottom: 8.1vh;
+    text-shadow: .25rem .25rem #f51720;
+  }
+  
+  
+  .image-half {
+    padding: 1.5rem;
+  }
+  
+  .text-half {
+    padding: 2rem;
+    text-shadow: .09rem .09rem #ee27f0;
+  }
