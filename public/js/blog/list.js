@@ -27,9 +27,32 @@ window.addEventListener('DOMContentLoaded', () => {
             })
 
             // redirect when tail clicked
-            tails[i].addEventListener("click", (element) => {
-                window.location.href = `${DOMAIN}${element.target.parentElement.dataset.src}`
+            tails[i].addEventListener("click", (event) => {
+                window.location.href = `${DOMAIN}${event.target.parentElement.dataset.src}`
             })
         }
+    }    
+
+    for (let i = 0; i < tails.length; i++) {
+        // redirect when tail taped
+        tails[i].addEventListener("touchstart", (event) => {
+
+            let windowTopWhenTaped = window.scrollY
+            let canRedirect = true
+
+            // console.log(`windowTopWhenTaped - ${windowTopWhenTaped}`)
+
+            setTimeout(() => { 
+                // console.log(`In timeout - ${window.scrollY}`)
+                if (window.scrollY !== windowTopWhenTaped) {
+                    canRedirect = false
+                }
+
+                if (canRedirect) {
+                    // console.log('redirect!!')
+                    window.location.href = `${DOMAIN}${event.target.parentElement.dataset.src}`
+                }                
+            }, 810)
+        })
     }
 })
