@@ -23,18 +23,16 @@ img {
     height: 100vh;
 }
 
-.parallax-text {
+.parallax p {
+    font-size: 3.9rem;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'arial';
     position: absolute;
-    top: 30%;
-}
-
-.parallax-text span {
-    font-size: 3rem;
-    font-weight: bold;
-}
-
-.parallax-text p {
-    font-size: 1.5rem;
+    top: 21%;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .content-tails {

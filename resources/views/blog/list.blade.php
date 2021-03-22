@@ -10,16 +10,9 @@
 
 <div class="content">
     <div id="parallax-blog-list" class="parallax">
-      <div class="center-positioning">
-        <div class="parallax-text">
-          <span>
-            Blog o copywritingu i marketingu treści
-          </span>
-          <p>
-            Dowiedz się z niego czegoś o promocji w sieci
-          </p>
-        </div>
-      </div>
+      <p>
+        Blog o copywritingu i marketingu treści
+      </p>
     </div>
     
     <div class="content-tails">
