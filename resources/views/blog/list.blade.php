@@ -9,8 +9,31 @@
 <script src="{{ asset('js/blog/list.js') }}"></script>
 
 <div class="content">
+    <!-- 
+      Ponieważ css się nie zaczytują na produkcji...  
     <div id="parallax-blog-list" class="parallax">
       <p>
+        Blog o copywritingu i marketingu treści
+      </p>
+    </div> -->
+
+    <div style="
+        background: url('../../img/type-machine.jpg') no-repeat center;
+        background-size: cover;
+        background-attachment: fixed;
+        padding: 0 5vh 0 5vh;
+        color: yellow;
+        text-shadow: .15rem .15rem #ee27f0;
+        height: 100vh;">
+      <p style="font-size: 3.9rem;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        font-family: 'arial';
+        position: absolute;
+        top: 21%;
+        left: 50%;
+        transform: translateX(-50%);">
         Blog o copywritingu i marketingu treści
       </p>
     </div>
