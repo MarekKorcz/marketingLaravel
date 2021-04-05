@@ -76,18 +76,10 @@
     <div id="seventh-main" class="row main-element-scaffold cyan-bg">
       <div class="col-sm-6 white-text center-positioning">
         <p style="font-size: 1.5rem;">
-          1. Prowadzenie kont na serwisach społecznościowych - Facebook oraz Instagram. 
-        </p>
-        <p>
-          Wiąże się to z tworzeniem (oraz publikacją z użyciem płatnych reklam) - postów związanych z tematyką 
-          Twojej działalności/biznesu oraz organizowaniem konkursów mających na celu zwiększenie zainteresowania tym co oferujesz jako firma!
-        </p>
-        <p>
-          Wszystkie te zabiegi mają na celu dać pewną wartość Twojemu potencjalnemu klientowi pokazując mu przy tym, że znasz się na tym czym się zajmujesz. 
-        </p>
-        <p>
-          Konsekwencją takich zabiegów będzie drastycznie zwiększenie szansy na to, że osoba taka - szukając potrzebnego produktu czy usługi - 
-          zdecyduję się na kontakt właśnie z Twoją firmą! 
+          1. Prowadzenie kont na serwisach społecznościowych - Facebook, Instagram oraz Twitter. </br>
+          <a href="/blog/running-social-media-accounts" target="_blank">
+            Dowiedz się więcej
+          <a> 
         </p>
       </div>
       <div class="col-sm-6 white-text center-positioning">
@@ -102,7 +94,7 @@
         <p style="font-size: 1.2rem;">
           Zabiegi te wymagają specjalistycznej wiedzy dotyczącej:
         </p>
-        <ol>
+        <ol style="text-align: left;">
           <li>
             tworzenia grafik oraz video,
           </li>

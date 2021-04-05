@@ -32,3 +32,7 @@ Route::get('/blog/why-own-marketing-agency', function () {
 Route::get('/blog/what-is-copywriting', function () {
     return view('blog.what-is-copywriting');
 });
+
+Route::get('/blog/running-social-media-accounts', function () {
+    return view('blog.running-social-media-accounts');
+});
