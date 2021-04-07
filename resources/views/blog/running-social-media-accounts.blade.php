@@ -9,7 +9,7 @@
 <script src="{{ asset('js/blog/articles.js') }}"></script>
 
 <div class="content">
-  <div id="parallax-blog-article-why-own-marketing-agency" class="parallax"></div>
+  <div id="parallax-blog-running-social-media-funpage" class="parallax"></div>
   <div class="article-title">
     <p style="font-size: 4.5vw;">Prowadzenie kont w serwisach społecznościowych</p>
   </div>

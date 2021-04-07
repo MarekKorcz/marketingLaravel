@@ -24,6 +24,21 @@ img {
     background-size: cover;
 }
 
+#parallax-blog-running-social-media-funpage {
+    background: url('../../img/funpage_social_media.jpg') no-repeat center;
+    background-size: cover;
+}
+
+#parallax-blog-ads-social-media {
+    background: url('../../img/ads_social_media.jpg') no-repeat center;
+    background-size: cover;
+}
+
+#parallax-blog-ads_google {
+    background: url('../../img/ads_google.jpg') no-repeat center;
+    background-size: cover;
+}
+
 .parallax {
     height: 72vh;
 }

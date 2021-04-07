@@ -41,6 +41,26 @@
     <div class="content-tails">
       <h2 class="headers">Posty</h2>
       <div class="row">
+        <div class="col-12 col-md-4 tail" data-src="/running-social-media-accounts">
+          <img src="img/funpage_social_media.jpg">
+          <p>
+            Prowadzenie kont w serwisach społecznościowych
+          </p>
+        </div>
+        <div class="col-12 col-md-4 tail" data-src="/running-social-media-ads">
+          <img src="img/ads_social_media.jpg">
+          <p>
+            Reklamowanie w mediach społecznościowych z użyciem płatnych reklam
+          </p>
+        </div>
+        <div class="col-12 col-md-4 tail" data-src="/running-google-ads">
+          <img src="img/ads_google.jpg">
+          <p>
+            Reklamowanie w wyszukiwarce Google
+          </p>
+        </div>
+      </div>
+      <div class="row">
         <div class="col-12 col-md-4 tail" data-src="/why-own-marketing-agency">
           <img src="img/why_agency.jpg">
           <p>5 powodów dla których postanowiłem założyć własną agencje marketingową</p>
