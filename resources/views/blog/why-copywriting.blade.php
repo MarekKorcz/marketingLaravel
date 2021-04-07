@@ -11,7 +11,7 @@
 <div class="content">
     <div id="parallax-blog-article-why-copywriting" class="parallax"></div>
     <div class="article-title">
-      <p>5 powodów dla których postanowiłem zająć się copywritingiem</p>
+      <p style="font-size: 4.2vw;">5 powodów dla których postanowiłem zająć się copywritingiem</p>
     </div>
     <div class="article">
       <p>Jeśli nie wiesz czym jest copywriting pozwól, że odeślę Cie do mojego  

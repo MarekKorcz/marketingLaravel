@@ -36,3 +36,11 @@ Route::get('/blog/what-is-copywriting', function () {
 Route::get('/blog/running-social-media-accounts', function () {
     return view('blog.running-social-media-accounts');
 });
+
+Route::get('/blog/running-social-media-ads', function () {
+    return view('blog.running-social-media-ads');
+});
+
+Route::get('/blog/running-google-ads', function () {
+    return view('blog.running-google-ads');
+});

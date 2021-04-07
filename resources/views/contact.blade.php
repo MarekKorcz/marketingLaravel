@@ -10,7 +10,7 @@
       <div class="col-12">
           <div class="contact-section-header">
               <p>SKONTAKTUJ SIĘ Z NAMI</p>
-              <p style="font-size: 1.5rem;">(+48) 602342396</p>
+              <p style="font-size: 1.5rem;">(+48) 602 342 396</p>
               <p style="font-size: 1.2rem;">Lub napisz na:</p>
               <hr>
               <div class="row">

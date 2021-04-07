@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded', () => {
 
-    const DOMAIN = "http://mark-media.pl/blog"
+    const DOMAIN = "https://mark-media.pl/blog"
     
     let tails = document.querySelectorAll('.tail')
 

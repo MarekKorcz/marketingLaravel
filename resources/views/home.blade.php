@@ -69,12 +69,12 @@
 
     <div class="text-center" style="padding: 0 3vh 6vh 3vh;">
       <h3>
-        Działania reklamowe obecnie oferowane przez nasz zespół dzielą się na dwie główne gałęzie:
+        Działania reklamowe obecnie oferowane przez nasz zespół dzielą się na trzy główne gałęzie:
       </h3>
     </div>
 
     <div id="seventh-main" class="row main-element-scaffold cyan-bg">
-      <div class="col-sm-6 white-text center-positioning">
+      <div class="col-sm-4 white-text center-positioning">
         <p style="font-size: 1.5rem;">
           1. Prowadzenie kont na serwisach społecznościowych - Facebook, Instagram oraz Twitter. </br>
           <a href="/blog/running-social-media-accounts" target="_blank">
@@ -82,41 +82,21 @@
           <a> 
         </p>
       </div>
-      <div class="col-sm-6 white-text center-positioning">
+      <div class="col-sm-4 white-text center-positioning">
         <p style="font-size: 1.5rem;">
-          2. Tworzeniem oraz publikacją w mediach społecznościowych reklam (w postaci grafik, zdjęć, audio czy video).
+          2. Tworzenie oraz publikacja w mediach społecznościowych reklam (w postaci grafik, zdjęć czy video). </br>
+          <a href="/blog/running-social-media-ads" target="_blank">
+            Dowiedz się więcej
+          <a> 
         </p>
-        <p>
-          Mają one na celu przekierować potencjalnego klienta na Twój profil w mediach społecznościowych, stronę internetową 
-          czy też specjalnie do tego celu utworzony przez nas - "landing page" zawierający informacje o Twojej ofercie wraz z 
-          nacechowaną persfazją zachętą do podjęcia akcji (zakupu). 
+      </div>
+      <div class="col-sm-4 white-text center-positioning">
+        <p style="font-size: 1.5rem;">
+          3. Tworzenie oraz publikacja reklam w wyszukiwarce Google. </br>
+          <a href="/blog/running-google-ads" target="_blank">
+            Dowiedz się więcej
+          <a> 
         </p>
-        <p style="font-size: 1.2rem;">
-          Zabiegi te wymagają specjalistycznej wiedzy dotyczącej:
-        </p>
-        <ol style="text-align: left;">
-          <li>
-            tworzenia grafik oraz video,
-          </li>
-          <li>
-            tworzenia reklam,
-          </li>
-          <li>
-            <a href="/blog/what-is-copywriting" target="_blank" style="text-shadow: none;">
-              copywriting'u
-            </a>
-            (umiejętność pisania tekstów sprzedażowych),
-          </li>
-          <li>
-            obsługi serwisów społecznościowych,
-          </li>
-          <li>
-            targetowania reklam (wymagane jest tu zrozumienie profilu osobowości grupy potencjalnych klientów),
-          </li>
-          <li>
-            oraz szerokopojętego pojęcia zakrawającego o dziedziny takie jak psychologia czy socjologia
-          </li>
-        </ol>
       </div>
     </div>
 

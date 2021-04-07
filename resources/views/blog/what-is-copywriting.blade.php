@@ -11,7 +11,7 @@
 <div class="content">
   <div id="parallax-blog-article-what-is-copywriting" class="parallax"></div>
   <div class="article-title">
-    <p>Czym jest copywriting</p>
+    <p style="font-size: 6vw;">Czym jest copywriting</p>
   </div>
   <div class="article">
     <p class="bolt">
