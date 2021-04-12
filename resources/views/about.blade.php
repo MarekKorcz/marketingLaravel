@@ -8,13 +8,26 @@
         O nas
       </h1>
       <p style="font-size: 1.2rem;">
-        Nasza agencja pomaga przedsiębiorcom rozwinąć biznes poprzez pozyskiwanie większej ilości klientów oraz zleceń online. 
+        Mark MEDIA to agencja marketingowa która pomaga przedsiębiorcom rozwinąć biznes poprzez pozyskiwanie większej ilości klientów oraz zleceń online. 
       </p>
       <p style="font-size: 1.2rem;">
-        Wspomniane wyżej rezulataty realizujemy tworząc treści sprzedażowe dla biznesów z którymi nawiązaliśmy współprace, 
-        prowadząc ich konta firmowe na Facebook'u i Instagramie 
-        oraz poprzez tworzenie i publikowanie płatnych reklam na Facebook'u, Instagramie oraz w wyszukiwarce Google.
+        Wspomniane wyżej rezulataty realizujemy na dwa sposoby:
       </p>
+      <ul>
+        <li>
+          Prowadząc konta firmowe na Facebook'u, Instagramie i Twitterze. Polega to na przygotowywaniu oraz regularnym umieszczaniu na nich treści - content'u.
+        </li>
+        <li>
+          Poprzez tworzenie treści i grafik sprzedażowych (reklam) oraz publikowanie ich na płatnych serwisach społecznościowych oraz wyszukiwarce Google 
+          przy ustanowieniu odpowiedniego ich targetowania (dobierania grupy osób którym mają się wyświetlać lub słów kluczowych w przypadku Google).
+        </li>
+      </ul>
+    </div>
+    <div class="text-center" style="padding: 3vh 6vh 6vh 6vh; font-size: 1.5rem;">
+      Bedzie nam łatwiej nawiązać współprace kiedy poznasz nasz 
+      <a href="/team">
+        zespół
+      </a>
     </div>
   </div>
 
