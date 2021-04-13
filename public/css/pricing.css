@@ -1,54 +1,24 @@
-a {
-    cursor: pointer;
-  }
-  
-  .content {
-    padding: 12vh 6vh 1vh 6vh;
-  }
-  
-  .fb {
-    background-color: #4267B2 !important;
-    color: white !important;
-    border: 0;
-    margin-bottom: 1.8vh;
-  }
-  
-  
-  .insta {
-    background-color: #e95950 !important;
-    color: white !important;
-    text-shadow: none;
-    border: 0;
-    margin-bottom: 1.8vh;
-  }
-  
-  .insta p {
-    color: #fbad50;
-  }
-  
-  .insta h4 {
-    color: #fccc63;
-  }
-  
-  
-  .fb.active, 
-  .insta.active,
-  .fb:hover, 
-  .insta:hover {
-    background-color: #2ff3e0 !important;
-    color: white !important;
-    border: 0;
-    margin-bottom: 1.8vh;
-  }
-  
-  #scrollAim {
-    padding-top: 12vh;
-  }
-  
-  table {
-    font-size: .9rem;
-  }
-  
-  th strong {
-    font-size: 1.2rem;
-  }
+strong {
+    font-size: 1.08rem;
+}
+
+#header {
+    padding-top: 5.4rem;
+    padding-bottom: 1.8rem;
+    text-align: center;
+}
+
+#text {
+    padding-bottom: 1.8rem;
+}
+
+#pricing {
+    padding-bottom: 1.8rem;
+}
+
+#cta {
+    padding-bottom: 1.8rem;
+    margin: 0 1.5rem 0 1.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+}

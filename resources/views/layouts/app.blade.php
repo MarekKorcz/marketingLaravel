@@ -40,7 +40,7 @@
         <ul class="nav-links">
             <li><a href="/">Home</a></li>
             <li><a href="/about">O nas</a></li>
-            <!-- <li><a href="/pricing">Cennik</a></li> -->
+            <li><a href="/pricing">Cennik</a></li>
             <li><a href="/contact">Kontakt</a></li>
             <li><a href="/blog">Blog</a></li>
             <li>
