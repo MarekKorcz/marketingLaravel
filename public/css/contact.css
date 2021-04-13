@@ -8,7 +8,7 @@
 
 .contact-section-header {
     text-align: center;
-    font-size: 2.7rem;
+    font-size: 1.5rem;
 }
 
 #contact-message input[name='name'], #contact-message input[name='email'], #contact-message input[name='topic'] {
@@ -31,3 +31,18 @@
     text-shadow: #f51720 .09rem .09rem;
     border: none;
 }
+
+.quote {
+    margin: 0;
+    background: #ee27f0;
+    color: #f8d210;
+    text-shadow: #f51720 .09rem .09rem;
+    padding: 1.2rem;
+    margin: 0 1.2rem 2.7rem 1.2rem;
+    border-radius: 1em;
+    font-size: 1.32rem;
+  }
+  .quote figcaption,
+  .quote blockquote {
+    margin: 1em;
+  }
