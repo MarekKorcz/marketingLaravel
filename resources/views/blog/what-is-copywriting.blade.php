@@ -18,13 +18,18 @@
       Nie, nie ma to nic wspólnego z prawami autorskimi (copyrights..). 
     </p>
     <p>
-      Copywriting to proces pisania perswazyjnych materiałów marketingowych i promocyjnych, które motywują ludzi do podjęcia jakiejś formy działania, np. dokonania zakupu, kliknięcia w link, przekazania darowizny czy umówienia się na konsultację.
+      Copywriting to proces pisania perswazyjnych materiałów sprzedażowych, które nakłaniają ludzi do podjęcia jakiejś formy działania, np. dokonania zakupu, kliknięcia w link, przekazania darowizny czy umówienia się na konsultację.
     </p>
     <p>
       Wbrew temu co można pomyśleć, copywriting to nie tylko teksty sprzedażowe. W erze internetu, każdy filmik czy nagranie audio zawierające odpowiednio przygotowany przekaz reklamowy, można również uznać jako copywriterstwo. 
     </p>
     <p>
       Generalnie, główne założenie polega na tym by profesjonalnie przygotowana informacja sprzedażowa, nacechowana persfazją i opisana językiem korzyści, obojętnie w jakiej postaci, doprowadzała do sprzedaży bez naszego udziału.
+    </p>
+    <p style="font-size: 24px; text-align: center; padding-top: 2.1rem;">
+      <a href="/contact" target="_blank">
+        Umów się na darmowy audyt aby dowiedzieć się jak możemy pomóc Twojej firmie!
+      </a>
     </p>
   </div>
 </div>

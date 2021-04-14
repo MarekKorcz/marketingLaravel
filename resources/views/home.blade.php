@@ -76,7 +76,7 @@
     <div id="seventh-main" class="row main-element-scaffold cyan-bg">
       <div class="col-sm-4 white-text center-positioning">
         <p style="font-size: 1.5rem;">
-          1. Prowadzenie kont na serwisach społecznościowych - Facebook, Instagram oraz Twitter. </br>
+          1. Prowadzenie kont na serwisach społecznościowych - Facebook oraz Instagram. </br>
           <a href="/blog/running-social-media-accounts" target="_blank">
             Dowiedz się więcej
           <a> 

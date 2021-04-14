@@ -15,35 +15,35 @@
   </div>
   <div class="article">
     <p>
-      Kilka lat temu na samą myśl o założeniu własnej agencji marketingowej, czułem czystą radość. Teraz, kiedy stao się to rzeczywistością, a z mojej pomocy korzystają już inne firmy, czuję, że
+      Kilka lat temu na samą myśl o założeniu własnej agencji marketingowej, czułem czystą radość. Teraz, kiedy stało się to rzeczywistością, a z naszej pomocy korzystają inne firmy, czuję, że
       rozpiera mnie prawdziwa duma! Dlatego obecnie chciałbym się podzielić z wami powodami które sprawiły, że w mojej głowie powstał pomysł na całe przedsięwzięcie!
     </p>
     <p class="bolt">
       1. Poszukiwanie swojego sposobu by dać wartość innym.
     </p>
     <p>
-      Każdy z nas ma jakiś talent (czy talenty). Jedni poznają go wcześniej, inni trochę pózniej. W moim przypadku proces odnajdywania swojego talentu przebiegał dość powoli, lecz teraz, kiedy patrze na to z perspektywy czasu – tak właśnie miało to u mnie wyglądać. 
+      Każdy z nas ma jakiś talent (czy talenty). Jedni poznają go wcześniej, inni trochę pózniej. W moim przypadku proces odnajdywania swojego talentu przebiegał dość powoli, lecz teraz, kiedy patrze na to z perspektywy czasu – tak właśnie miało to wyglądać. 
     </p>
     <p>
-      Jak większość ludzi którzy docelowo zajeli się tematami związanymi ze sprzedażą, podejmowałem się wielu zajęć przez co poznałem wiele profesji i dziedzin życia. Moje większe czy mniejsze niepowodzenia we wspomnianych zawodach sprawiły, że uświadomiłem sobie pewną prawidłowość na temat samego siebie, mianowicie – kiedy zgłębie temat związany z jakąś dziedziną czy zagadnieniem to potrafie wpłynąć na decyzje innych osób. Na potrzebe tego postu skupię się tylko na wpływaniu na decyzje sprzedażowe. 
+      Jak większość ludzi którzy docelowo zajeli się tematami związanymi ze sprzedażą, podejmowałem się wielu zajęć przez co poznałem wiele profesji. Moje większe czy mniejsze niepowodzenia sprawiły, że uświadomiłem sobie pewną prawidłowość na temat samego siebie, mianowicie – kiedy zgłębie temat związany z jakąś dziedziną czy zagadnieniem to potrafie wpłynąć na decyzje innych osób. Na potrzebe tego postu skupię się tylko na wpływaniu na decyzje sprzedażowe. 
     </p>
-    <p class="highlight">
-      Czymże innym jest sprzedaż jeśli nie zdolnością wpłynięcią na czyjąś przyszłą decyzję?
+    <p class="highlight" style="text-align: center; font-size: 21px;">
+      Czym jest sprzedaż jeśli nie zdolnością wpłynięcią na czyjąś przyszłą decyzję?
     </p>
     <p>
-      Co ma to wszystko wspólnego z byciem copywriterem? Otóż w copywritring to taka sprzedaż (czy wpływanie na decyzje innych) przy użyciu wcześniej przygotowanych tekstów sprzedażowych oraz odpowiedniu przygotowanych reklam. 
+      Co ma to wszystko wspólnego z byciem copywriterem? Otóż copywritring to taka sprzedaż (czy wpływanie na decyzje innych) przy użyciu wcześniej przygotowanych tekstów sprzedażowych czy generalnie odpowiednio przygotowanych reklam. 
       <a href="what-is-copywriting" target="_blank">
         Szerzej opisałem to w poprzednim poście.
       </a>
     </p>
-    <p>
+    <p style="padding: .9rem 0 .9rem 0; text-align: center; font-size: 18px;">
       Bądżmy szczerzy, w kapitalistycznym świecie nastawionym na konsumpcje, możliwość wpływania na ilość sprzedaży w Twojej firmię to największe dobro jakie mogę od siebie dać! Wierzę w to jak w nic innego! 
     </p>
-    <p>
-      W przypadku nawiązania współpracy z moją agencją marketingową, zwiększenie zysków Twojej firmy będzie również oznaczać zwiększenie moich zysków! Będzie nas łączył wspólny interes, a w mojej ocenie jest to najlepszy grunt do współpracy! 
-      <!-- <a href="/pricing" target="_blank">
-        Sprawdż co ma do zaoferowania moja agencja marketingowa.
-      </a> -->
+    <p style="padding: 1.2rem 0 1.2rem 0; text-align: center; font-size: 18px;">
+      W przypadku nawiązania współpracy z moją agencją marketingową, zwiększenie zysków Twojej firmy będzie również oznaczać zwiększenie moich zysków! Będzie nas łączył wspólny interes, a w mojej ocenie jest to najlepszy grunt do współpracy! </br> </br>
+      <a href="/contact" target="_blank" style="font-size: 21px;">
+        Umów się na darmowy audyt by dowiedzieć się jak możemy Ci pomóc!
+      </a>
     </p>
     <p class="bolt">
       2. Robienie tego na czym się znam i co lubie.
@@ -55,8 +55,7 @@
       3. Stworzenie dla innych warunków pracy w których sam jako pracownik chciałbym pracować.
     </p>
     <p>
-      Nie oszukujmy się, to dopiero początek drogi i pierwsze kroki w tej materii, 
-      jednakże kiedy już na tym etapie podejmuję się outsourcingu, wartości te przyświecają mi stale na codzień! 
+      Kiedy oddelegowuję kmuś zadania, wartości te przyświecają mi na codzień! 
       Jesteśmy kreatywnymi istotami ludzkimi, a nie trybikami w jakiejś maszynie. Wymagamy traktowania innego niż te zero-jedynkowe! 
       Szczerze i ze spokojem wierzę, że wraz z rozwojem dalej będę mógł być spójny z tymi poglądami. 
     </p>
@@ -77,7 +76,7 @@
     </p>
     <p>
       Jest to dowolność którą niestety nie mogłem się cieszyć pracując w cudzej strukturze. 
-      Wiadomo, że nie zawsze jest tak kolorowo, są przecież spotkania, telefony, itd 
+      Wiadomo, że nie zawsze jest tak kolorowo, są przecież terminy, spotkania czy telefony 
       lecz wybór przeważającej większości czasu oraz miejsca pracy pozostaje kwestią indywidualną.
     </p>
     </div>

@@ -19,7 +19,7 @@
           poprzedniego postu.
         </a>
       </p>
-      <p>Tymczasem, poniżej zamieszczam listę pięciu ważnych dla mnie powodów które skłoniły mnie do zajęcia się copywritingiem:</p>
+      <p>Tymczasem poniżej, zamieszczam listę pięciu ważnych dla mnie powodów które skłoniły mnie do zajęcia się copywritingiem:</p>
       <p class="bolt">
         1. Jest to dla mnie środek wyrazu, sposób na poszukiwanie lepszego siebie.
       </p>
@@ -27,7 +27,7 @@
         Reklamy są dla mnie czymś więcej niż sposobem na sprzedaż. Dla niewprawionego i powierzchownego oka, reklama jest czymś oczywistym, rzekomo prostym. 
       </p>
       <p>
-        Tymczasem złudna na pierszy rzut oka rzeczywistość skrywa niejednokrotnie bardzo skomplikowany mechanizm którego części można doszukiwać sie w socjologi, psychologi czy manipulacji. 
+        Tymczasem złudna na pierszy rzut oka rzeczywistość skrywa niejednokrotnie bardzo skomplikowany mechanizm którego części można doszukiwać sie w socjologii, psychologii czy manipulacji. 
       </p>
       <p>
         Reklama jest demonizowanym przez wielu medium do osiągania nieprzeciętnych rezultatów  dlatego zgłębienie arkanów tej dziedziny nieprzerwanie od wielu lat mnie fascynuję.
@@ -42,7 +42,7 @@
         3. Możliwość bycia “słuchanym” - chodzi o mowe persfazyjną.
       </p>
       <p>
-        Reklama nie musi być idealna, reklama nie musi być poprawna, reklama nie musi być powszechnie rozumiana. 
+        Reklama nie musi być idealna, reklama nie musi być poprawna, reklama nie musi być rozumiana od strony technicznej. 
       </p>
       <p>
         Głównym celem reklamy jest przyciągnięcie uwagi nieświadomego jeszcze konusumenta. W celu osiągnięcia takiego rezultatu warto być biegłym w zagadnieniach zakrawających o powszechnie rozumianą psychologię czy socjologię. Potrzebne jest zrozumienie tego jak działamy jako ludzie, co definiuje nasze zachowania oraz popędy. Jest to dla mnie wspaniały grunt do eksploracji i poszerzania własnej wiedzy!
@@ -52,23 +52,20 @@
       </p>
       <p>
         Chyba nikt nie lubi wykonywać w kółko tych samych czynności? Copywriting pozwala na tego rodzaju luksus! 
-        Jak nazwa wskazuję – pisanie “copy” czyki kopi która generuję póżniej sprzedaż za nas. 
-        Kiedy umieści się już odpowiednio przygotowaną reklame w sieci to niezależnie od tego co będzie się dalej robić ze swoim czaem – sprzedaż i kontakty z nowymi klientami będą się generowały dla Ciebie automatycznie! Można to porównać do zautmatyzowanego handlowca czy sprzedawcy kŧóry wykonuję za nas całą brudną robotę związaną ze sprzedażą...
+        Jak nazwa wskazuję – pisanie “copy” to pisanie "kopi" która generuję póżniej sprzedaż za nas. 
+        Kiedy umieści się już odpowiednio przygotowaną reklame w sieci to niezależnie od tego co będzie się dalej robić ze swoim czaem – sprzedaż i kontakty z nowymi klientami będą się generowały dla Ciebie automatycznie! Można to porównać do zautmatyzowanego handlowca czy sprzedawcy kŧóry wykonuję za nas całą brudną robotę związaną ze sprzedażą... I to za darmo!
       </p>
-      <!-- <p>
-        Tak się składa, że znamy się na reklamowaniu w ten sposób - 
-        <a href="/pricing" target="_blank">
-          sprawdż co mamy do zaoferowania Twojemu biznesowi!
+      <p style="padding: 1.5rem 0 1.5rem 0; text-align: center; font-size: 21px;">
+        Tak się składa, że znamy się na reklamowaniu w ten sposób! </br>
+        <a href="/contact" target="_blank" style="font-size: 24px;">
+          Umów się na darmowy audyt by dowiedzieć się co mamy do zaoferowania dla Twojego biznesu!
         </a>
-      </p> -->
-      <p>
-        Moja agencja marketingowa zajmuję się między innymi tworzeniem tekstów sprzedażowych, reklam, oraz umieszczaniu ich w odpowiednich miejscach.
       </p>
       <p class="bolt">
         5. Możliwość pracy gdziekolwiek i w obojętnie jakich warunkach.
       </p>
       <p>
-        Pomysł zawartość reklamy, kasową kampanie reklamową czy zmieniający "reguły gry" brand image może objawić się w każdej chwili, w obojętnie jakich warunkach. Wystarczy je spisać i następnie odpowiednio przygotować.
+        Pomysł na treść reklamy, kasową kampanie reklamową czy zmieniający "reguły gry" brand image może objawić się w każdej chwili, w obojętnie jakich warunkach. Wystarczy je spisać i następnie odpowiednio przygotować.
       </p>
     </div>
   </div>

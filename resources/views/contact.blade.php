@@ -29,25 +29,21 @@
             <p style="font-size: 1.2rem;">Lub napisz na:</p>
             <hr>
             <div class="row">
-                <div class="col-4"></div>
-                <div class="col-2">
-                    <p>
-                        <a id="instagram" class="nav-link" href="https://www.facebook.com/Mark-Media-927015074159735" target="_blank">
+                <div class="col-2"></div>
+                <div class="col-4">
+                        <a id="facebook" class="nav-link" href="https://www.facebook.com/Mark-Media-927015074159735" target="_blank">
                             <i class="fa fa-facebook" style="font-size: 51px;"></i>
                         </a>
-                    </p>
                 </div>
-                <div class="col-2">
-                    <p>
+                <div class="col-4">
                         <a id="instagram" class="nav-link" href="https://www.instagram.com/mark.media.group/" target="_blank">
                             <i class="fa fa-instagram" style="font-size: 51px; color: orange;"></i>
                         </a>
-                    </p>
                 </div>
-                <div class="col-4"></div>
+                <div class="col-2"></div>
               </div>
               <hr>
-          </div>
+          </div>       
           <!-- <div class="row">
             <div class="col-1"></div>
             <div class="col-10">

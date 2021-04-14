@@ -33,7 +33,7 @@
             <li>
                 ustalenie z nami wolumenu publikacji reklam i postów, a wraz z nim budżetu reklamowego (przykład: stworzenie jednej kampanii reklamowej 
                 w miesiącu, z czteroma reklamami w postaci grafiki i tekstu to zupełnie co innego niż prowadzenie funpage'ów na 3 serwisach społecznościowych,
-                publikowanie na nich co 3 dni nowych postów oraz tworzenie 4 kampanii relamowych miesięcznie składających się z kilku reklam testowych każda (niejednokrotnie w formie 
+                publikowanie na nich co 3 dni nowych postów oraz tworzenie 4 kampanii relamowych miesięcznie składających się z kilku reklam (niejednokrotnie w formie 
                 video))
             </li>
         </ul>
@@ -53,9 +53,9 @@
         <p>
             Cena naszych usług waha się od 
             <strong>
-                750zł - 3000zł
+                750zł - 4000zł
             </strong>
-            netto miesięcznie.
+            netto miesięcznie - wszystko w zależności od ilości pracy.
         </p>
         <p>
             Do ceny ostatecznej doliczyć trzeba budżet reklamowy. Generalnie oscyluje on pomiędzy 
@@ -67,10 +67,10 @@
     </div>
     <div id="cta">
         <p>
-            <a href="/contact" target="_blank">
-                Umów się z nami na darmowy audyt Twojego biznesu! 
+            <a href="/contact" target="_blank" style="font-size: 27px;">
+                Umów się z nami na darmowy audyt Twojego biznesu! </br> </br>
             </a>
-            Dzięki niemu przeanalizujemy Twoją widoczność w sieci, zaproponujemy sposób reklamowania się oraz wycenimy dokładnie koszt naszej współpracy!
+            Dzięki niemu przeanalizujemy Twoją widoczność w sieci, zaproponujemy sposób reklamowania oraz wycenimy dokładnie koszt naszej współpracy!
         </p>
     </div>
 </div>

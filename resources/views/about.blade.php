@@ -13,15 +13,14 @@
       <p style="font-size: 1.2rem;">
         Wspomniane wyżej rezulataty realizujemy na dwa sposoby:
       </p>
-      <ul>
+      <ol>
         <li>
-          Prowadząc konta firmowe na Facebook'u, Instagramie i Twitterze. Polega to na przygotowywaniu oraz regularnym umieszczaniu na nich treści - content'u.
+          Prowadząc konta firmowe na Facebook'u oraz Instagramie. Polega to na przygotowywaniu oraz regularnym umieszczaniu na nich treści - content'u.
         </li>
         <li>
-          Poprzez tworzenie treści i grafik sprzedażowych (reklam) oraz publikowanie ich na płatnych serwisach społecznościowych oraz wyszukiwarce Google 
-          przy ustanowieniu odpowiedniego ich targetowania (dobierania grupy osób którym mają się wyświetlać lub słów kluczowych w przypadku Google).
+          Poprzez tworzenie treści i grafik sprzedażowych (reklam) oraz publikowanie ich na płatnych serwisach społecznościowych oraz wyszukiwarce Google.
         </li>
-      </ul>
+      </ol>
     </div>
     <div class="text-center" style="padding: 3vh 6vh 6vh 6vh; font-size: 1.5rem;">
       Bedzie nam łatwiej nawiązać współprace kiedy poznasz nasz 

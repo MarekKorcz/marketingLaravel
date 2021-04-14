@@ -16,7 +16,7 @@
   <div class="article">
     <p>
       Reklama z użyciem płatnych reklam to temat w związku z którym napisano nie jeden artykuł w sieci. W tym poście, w kilku krokach, postaram się wyszczególnić 
-      to co najbadziej kluczowe w tworzeniu odnoszących sukcesy - i co najważniejsze - przyciągających do reklamowanej marki klientów kampanii reklamowych.
+      to co najbadziej kluczowe w tworzeniu odnoszących sukcesy i przyciągających do reklamowanej marki klientów - kampanii reklamowych.
     </p>
     <h3 class="text-center" style="padding-bottom: 2rem;">
       Więc jak to działa?
@@ -77,7 +77,7 @@
     </p>
     <p>
       <strong>
-        3. Wykorzystanie programów do edycji grafiki i video by stowrzyć część wizualną reklamy. </br>
+        3. Wykorzystanie programów do edycji grafiki i video aby stworzyć część wizualną reklamy. </br>
       </strong>
       Etap ten to nic innego jak dobór odpowiednich grafik czy materiałów filmowych, edycja ich oraz naniesienie na nie napisów. 
     </p>
@@ -87,24 +87,24 @@
       </strong>
       Nie oszukujmy się, co z tego, że wiemy kim jest nasz klient, jeśli poruszanie się bo mediach społecznościowych wydaje nam się niekomfortową wyprawą w nieznane. 
       Dla kogoś kto nie jest laikiem może zabrzmieć to trywialnie lecz osoby które na codzień skupiają się wyłącznie na swojej pracy, w konfrontacji z obsługą i konfiguracją 
-      serwisów mogą czuć się przynajmniej skołowane. </br>
+      serwisów mogą czuć się przynajmniej przytłoczone. </br>
     </p>
     <p>
       <strong>
-        5. Tworzenie testowych grup reklam w celu wyłonienia wariantu rokującego najlepiej. </br>
+        5. Tworzenie testowych grup reklam w celu wyłonienia tej która sprzedaje najlepiej. </br>
       </strong>
-      Etap czwarty wiąże się bezpośrednio z etapem 4 jednak tworzenie testowych grup reklam wymaga poświęcenia dodatkowej uwagi ponieważ wymaga kilkukrotnego stworzenia tekstów
-       sprzedażowych oraz grafik czy nagrań video. Wszystko w celu zrobienia kilku zestawów reklam które będzie można wypuścić na dzień czy dwa w celu wybrania faworyta generującego
-       największy ruch. Następnym krokiem jest wyłączenie gorzej działających reklam i przeznaczenie pozostałego budżetu reklamowego na faworyta.
+        Etap ten to nic innego jak powtórka 4 poprzednich punktów. Wszystko w celu zrobienia kilku zestawów reklam które będzie można wypuścić na dzień czy dwa, po to by wybrać faworyta generującego
+       największy ruch. Następnym krokiem jest wyłączenie gorzej działających reklam i przeznaczenie pozostałego budżetu reklamowego na zwycięzce.
     </p>
+
     <div style="padding-top: 2.7rem;">
       <p>
-        Najlepsze jednak w tym wszystkim jest to, że możesz cały ten proces oddelegować nam, dzięki czemu będziesz móc bardziej skupić się na swojej pracy oraz obsłudze nowych i 
+        Najlepsze jednak w tym wszystkim jest to, że możesz cały ten proces oddelegować nam, dzięki czemu będziesz mieć więcej czasu by skupić się na swojej pracy oraz obsłudze nowych, 
         stale napływających klientów!
       </p>
-      <p style="font-size: 21px;">
+      <p style="font-size: 24px; text-align: center;">
         <a href="/contact" target="_blank">
-          By ułatwić sobie to wszystko skontaktuj się z nami!
+          Umów się na darmowy audyt by dowiedzieć się jak możemy Ci pomóc!
         </a>
       </p>
     </div>
