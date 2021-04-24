@@ -10,6 +10,9 @@
     })(window,document,'script','dataLayer','GTM-NSKDG24');</script>
     <!-- End Google Tag Manager -->
 
+    <!-- Facebook verificaion site meta tag -->
+    <meta name="facebook-domain-verification" content="xcw402zqdqdckpjk9m5zajfzghgwxr" />
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
