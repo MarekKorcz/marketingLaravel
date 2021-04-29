@@ -12,6 +12,7 @@
 
     <!-- Facebook verificaion site meta tag -->
     <meta name="facebook-domain-verification" content="xcw402zqdqdckpjk9m5zajfzghgwxr" />
+    <!-- End Facebook verificaion site meta tag -->
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -88,5 +89,7 @@
             </div>
         </div>
     </footer>
+
+    <div id="banner" class="text-center"></div>
 </body>
 </html>

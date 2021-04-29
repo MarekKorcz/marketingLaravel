@@ -54,3 +54,30 @@ footer {
   place-items: center;
   text-align: center;
 }
+
+.banner {
+  position: fixed;
+  top: 78%;
+  background-color: grey;
+  color: white;
+  left: 0;
+  width: 100%;
+  height: 22%;
+  font-size: 18px;
+  z-index: 1000;
+  padding: 6px 3px 6px 3px;
+  opacity: 0.9;
+}
+
+#banner-text {
+  font-size: 15px;
+}
+
+#banner-text a {
+  color: #2ff3e0;
+}
+
+#banner-button a {
+  background-color: #2ff3e0;
+  border: #2ff3e0;
+}
