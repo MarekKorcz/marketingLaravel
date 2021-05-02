@@ -51,10 +51,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
                     <a target="_blank" href="/private-policy">
                         Politykę prywatności
                     </a>
-                    oraz
-                    <a target="_blank" href="/regulations">
-                        Regulamin
-                    </a>
                     .
                 </p>
             </div>
@@ -68,6 +64,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
         bannerElement.classList.add('banner')
 
         document.getElementById("understand").addEventListener("click", () => {
+            setBannerCookie()
             bannerElement.classList.remove('banner')
         })
     }

@@ -22,6 +22,10 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
+Route::get('/private-policy', function () {
+    return view('private_policy');
+});
+
 
 
 
